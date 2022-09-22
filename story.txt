@@ -1,1 +1,2 @@
 I am the story from master.
+I am the story new from master.
