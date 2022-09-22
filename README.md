@@ -1,7 +1,6 @@
 <!--markdown tutorial-->
 
 Saleh Quamrul Chowdhury<br/>
-This is second line of README.md
 
 ---
 
