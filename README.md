@@ -14,8 +14,6 @@ Saleh Quamrul Chowdhury<br/>
 
 ##### Saleh Quamrul
 
-###### Saleh Quamrul
-
 <p>This is Saleh Quamrul. I am X years old. I am Web Developer</p>
 
 <br/>
